@@ -14,13 +14,13 @@ Project structure:
 - README.md - Documentation
 
 ## Libraries
-- **argparse** - For parsing command line arguments, link vv
-- **math** - Provides mathematical functions
-- **os** - Provides operating system functions
-- **pytest** - Testing framework for validation
-- **string** - For string constants and manipulation
-- **sys** - Provides system functions and constants
-- **unittest** - Unit testing framework
+- **argparse** - For parsing command line arguments - [learn more](https://docs.python.org/3/library/argparse.html)
+- **math** - Provides mathematical functions - [learn more](https://docs.python.org/3/library/math.html)
+- **os** - Provides operating system functions - [learn more](https://docs.python.org/3/library/os.html)
+- **pytest** - Testing framework for validation - [learn more](https://docs.pytest.org/en/7.4.x/)
+- **string** - For string constants and manipulation - [learn more](https://docs.python.org/3/library/string.html)
+- **sys** - Provides system functions and constants - [learn more](https://docs.python.org/3/library/sys.html)
+- **unittest** - Unit testing framework - [learn more](https://docs.python.org/3/library/unittest.html)
 
 ## Installation
 Clone the repository:

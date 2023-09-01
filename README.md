@@ -117,7 +117,3 @@ The object-oriented design makes it easy to extend the tool with new cipher algo
 To use the application, the user specifies the desired mode, cipher, key, input text, and output location via command line arguments or interactive user input. The input text is encrypted or decrypted (based on the mode) using the chosen cipher and key and then written to an output file or the console, depending on command line arguments.
 
 Overall, this project demonstrates programming practices like modular design, command line interfaces, text processing, and unit testing.
-
-
-
-## AUTHOR: Jacob Randall
